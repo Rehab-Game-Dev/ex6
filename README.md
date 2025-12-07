@@ -71,27 +71,6 @@ Tests include:
 
 All tests passed successfully.
 
-------------------------------------------------------------
-Folder Structure (Unity + External Tests)
-------------------------------------------------------------
-
-05-tilemap-pathfinding-master/
-│
-├── Assets/
-│   ├── Scenes/
-│   ├── Scripts/
-│   │   ├── player/
-│   │   ├── 3-enemies/
-│   │   ├── 0-bfs/       ← old BFS kept for reference
-│   │   └── 4-generation/
-│   └── Spritesheets/
-│
-├── AStarProject/        ← clean external solution for A* tests
-├── AStarConsole/        ← console runner (optional)
-├── AStarLib/            ← A* algorithm implementation
-├── AStarTests/          ← automated unit tests
-│
-└── README.txt           ← this file
 
 ------------------------------------------------------------
 How to Build (External A* Solution)

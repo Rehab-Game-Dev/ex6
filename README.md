@@ -1,10 +1,9 @@
+Tilemap Pathfinding Project – README
+===================================
+
 Itch.io link:
 
 https://ori755.itch.io/ex6
-
-
-Tilemap Pathfinding Project – README
-===================================
 
 This project extends a Unity tile‑based movement system with two major upgrades:
 (1) item‑dependent movement rules for the player, and  

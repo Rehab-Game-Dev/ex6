@@ -1,3 +1,8 @@
+Itch.io link:
+
+https://ori755.itch.io/ex6
+
+
 Tilemap Pathfinding Project – README
 ===================================
 

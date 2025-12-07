@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AStarLib/AStarLib.csproj" />
+  <Project Path="AStarTests/AStarTests.csproj" />
+</Solution>
